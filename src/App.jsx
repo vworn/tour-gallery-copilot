@@ -47,3 +47,5 @@ function App() {
 }
 
 export default App
+
+//Setup data fetching, state management, and conditional rendering in App
