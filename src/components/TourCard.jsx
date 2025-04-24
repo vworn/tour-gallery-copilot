@@ -17,3 +17,5 @@ const TourCard = ({ id, name, info, image, price, removeTour }) => (
 )
 
 export default TourCard
+
+// Create TourCard component with remove-tour functionality
