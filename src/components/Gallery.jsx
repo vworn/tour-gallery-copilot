@@ -11,3 +11,5 @@ const Gallery = ({ tours, removeTour }) => (
 )
 
 export default Gallery
+
+//Implement Gallery component to render list of tours
